@@ -1,0 +1,10 @@
+id,name,age,school,subject,grade,teacher,passed
+1,Alice,15,School_A,Math,85,Mr. Smith,True
+2,Bob,16,School_B,Science,78,Ms. Johnson,True
+3,Cathy,15,School_A,Math,92,Mr. Smith,True
+4,David,16,School_B,Science,65,Ms. Johnson,False
+5,Eva,15,School_A,English,90,Mr. Brown,True
+6,Frank,17,School_C,History,70,Mr. Lee,True
+7,Grace,15,School_A,Math,88,Mr. Smith,True
+8,Henry,16,School_B,Science,60,Ms. Johnson,False
+9,Isabel,17,School_C,History,75,Mr. Lee,True

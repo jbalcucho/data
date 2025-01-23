@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Alice",
+    "age": 15,
+    "school": "School_A",
+    "subjects": [
+      {"subject": "Math", "grade": 85, "teacher": "Mr. Smith", "passed": true},
+      {"subject": "English", "grade": 88, "teacher": "Ms. Brown", "passed": true}
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Bob",
+    "age": 16,
+    "school": "School_B",
+    "subjects": [
+      {"subject": "Science", "grade": 78, "teacher": "Ms. Johnson", "passed": true},
+      {"subject": "History", "grade": 82, "teacher": "Mr. Lee", "passed": true}
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Cathy",
+    "age": 15,
+    "school": "School_A",
+    "subjects": [
+      {"subject": "Math", "grade": 92, "teacher": "Mr. Smith", "passed": true},
+      {"subject": "Science", "grade": 89, "teacher": "Ms. Johnson", "passed": true}
+    ]
+  },
+  {
+    "id": 4,
+    "name": "David",
+    "age": 16,
+    "school": "School_B",
+    "subjects": [
+      {"subject": "Science", "grade": 65, "teacher": "Ms. Johnson", "passed": false},
+      {"subject": "History", "grade": 70, "teacher": "Mr. Lee", "passed": true}
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Eva",
+    "age": 15,
+    "school": "School_A",
+    "subjects": [
+      {"subject": "English", "grade": 90, "teacher": "Mr. Brown", "passed": true},
+      {"subject": "Math", "grade": 94, "teacher": "Mr. Smith", "passed": true}
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Frank",
+    "age": 17,
+    "school": "School_C",
+    "subjects": [
+      {"subject": "History", "grade": 70, "teacher": "Mr. Lee", "passed": true},
+      {"subject": "Science", "grade": 75, "teacher": "Ms. Johnson", "passed": true}
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Grace",
+    "age": 15,
+    "school": "School_A",
+    "subjects": [
+      {"subject": "Math", "grade": 88, "teacher": "Mr. Smith", "passed": true},
+      {"subject": "English", "grade": 85, "teacher": "Ms. Brown", "passed": true}
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Henry",
+    "age": 16,
+    "school": "School_B",
+    "subjects": [
+      {"subject": "Science", "grade": 60, "teacher": "Ms. Johnson", "passed": false},
+      {"subject": "Math", "grade": 68, "teacher": "Mr. Smith", "passed": false}
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Isabel",
+    "age": 17,
+    "school": "School_C",
+    "subjects": [
+      {"subject": "History", "grade": 75, "teacher": "Mr. Lee", "passed": true},
+      {"subject": "English", "grade": 80, "teacher": "Ms. Brown", "passed": true}
+    ]
+  }
+]
